@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John-Ssuubi from Uganda East Africa
 - 👀 I’m interested in Machine Learnling and software development.
 - 🌱 I’m currently learning Introduction to AI with python and also Flutter.
-- 💞️ I’m just starting and learning by myself programming, but looking for help on a startup idea am curently working on.
+- 💞️ I started learning by myself programming in 2020, am now building my ideas and working with others.
 - 📫 How to reach me johnsemugera@gmail.com, whats app: +256707477946, twitter: https://mobile.twitter.com/john_ssuubi 
 
 <!---
